@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactt/static/js/main.e662c4e0.js",
+    "main.js": "/reactt/static/js/main.c1df3b0f.js",
     "index.html": "/reactt/index.html",
-    "main.e662c4e0.js.map": "/reactt/static/js/main.e662c4e0.js.map"
+    "main.c1df3b0f.js.map": "/reactt/static/js/main.c1df3b0f.js.map"
   },
   "entrypoints": [
-    "static/js/main.e662c4e0.js"
+    "static/js/main.c1df3b0f.js"
   ]
 }
